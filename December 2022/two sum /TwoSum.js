@@ -29,5 +29,5 @@ var twoSum = function (nums, target) {
   }
 };
 
-const ans = twoSum(nums, target);
-console.log(ans);
+// const ans = twoSum(nums, target);
+// console.log(ans);
